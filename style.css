@@ -1,0 +1,14 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travle-mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travle-mainDiv img+
+{
+    width: 100%;
+}
